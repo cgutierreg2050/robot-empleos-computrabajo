@@ -1,0 +1,18 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Archivos temporales / locales
+.DS_Store
+.idea/
+.vscode/
+*.txt
+*.csv
